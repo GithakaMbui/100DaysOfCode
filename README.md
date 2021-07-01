@@ -18,4 +18,4 @@ More info [here](Day2/README.md)
 ## Day 3
 I'm still learning/relearning CSS
 
-More info [here](Day3/Day3.md)
+More info [here](Day3/README.md)
