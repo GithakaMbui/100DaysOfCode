@@ -1,4 +1,4 @@
-# 100DaysOfCode
+# 100 Days Of Code
 
 My second attempt at completing the #100DaysOfCode challenge
 
