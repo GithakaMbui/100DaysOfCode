@@ -1,12 +1,30 @@
 # Day 1
-I'm relearning CSS fundamentals. 
+I'm learning/relearning markdown fundamentals. 
 
-I have learning about CSS Cascanding and Inheritance. 
+### To cover:
+1. writin headings
+2.  writing lists, both ordered and unordered
+3.  writing table of contents
+4.  bolding and italizing text
+5.  writing task lists
 
-### I learnt the following:
-- [x] Cascading means that because more than one stylesheet could apply to a particular piece of html, there has to be a known wayof determining which specific stylesheet applies to which particular piece of html.
+### So what is Markdown?
+markdown
+: it's a lightweight markup language with a plain tet formating syntax.
 
-### I'm learning Markdown too:
-- [x] writin headings
-- [x] writing lists, both ordered and unordered
-- [ ] writing table of vontents
+### What is it used for?
+  
+- writing ReadMe files for Github repositories
+- blogposts
+- used in many static site generators such as gatsby
+
+### Some things you can format:
+- [x] headings
+- [x] lists
+- [x] emphasis
+- [ ] links
+- [x] headings
+- [ ] blocks of code
+- [x] blockquotes
+- [x] images
+- [ ] horizontal rules

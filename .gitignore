@@ -348,3 +348,11 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# ignore images
+
+printf '*.jpg\n*.jpeg\n*.png\n*.gif\n' >> .gitignore
+Day1/boldinganditalizing.jpg
+Day1/outline.PNG
+Day1/definitionofMarkdown.jpg
+Day1/mainReadME.jpg
