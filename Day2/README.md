@@ -1,7 +1,7 @@
-I will continue learning CSS
+## I will continue learning CSS
 
-I learnt about:
--A
--B
--C
--D
+### I learnt about:
+
+- First item
+- Second item
+- Third item

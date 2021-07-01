@@ -1,4 +1,5 @@
-I learnt:
--1
--2
--3
+## I learnt:
+
+1. First item
+2. Second item
+3. Third item
