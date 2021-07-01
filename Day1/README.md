@@ -1,12 +1,15 @@
-# Day 1
-I'm learning/relearning markdown fundamentals. 
+**1st July, 2021**
+# Day 1 
+
+*I'm learning/relearning markdown fundamentals.*
 
 ### To cover:
-1. writin headings
+1. writing headings
 2.  writing lists, both ordered and unordered
 3.  writing table of contents
 4.  bolding and italizing text
 5.  writing task lists
+6.  writing definition lists
 
 ### So what is Markdown?
 markdown
