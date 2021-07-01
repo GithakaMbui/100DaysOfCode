@@ -12,7 +12,7 @@ More info [here](Day1/Day1.md)
 ## Day 2
 I'm still learning/relearning CSS
 
-More info [here](Day2/Day2.md)
+More info [here](Day2/README.md)
 
 
 ## Day 3
