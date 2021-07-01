@@ -6,7 +6,7 @@ My second attempt at completing the #100DaysOfCode challenge
 ## Day 1
 I'm learning/relearning Markdown
 
-More info [here](Day1/Day1.md)
+More info [here](Day1/README.md)
 
 
 ## Day 2
