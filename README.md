@@ -10,7 +10,7 @@ More info [here](Day1/README.md)
 
 
 ## Day 2
-To learn/relearn CSS
+To learn/relearn CSS and complete learning Markdown
 
 More info [here](Day2/README.md)
 
