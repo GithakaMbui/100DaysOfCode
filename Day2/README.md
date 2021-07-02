@@ -6,4 +6,6 @@
 - To study css fundamentals
 - To make get started making a reusable navigation bar in react
 
-Here is the [link to the Markdown Cheat Sheet](Day2/sample.md)
+Here is the [link to the Markdown Cheat Sheet](Day2/Cheatsheet/sample.md)
+
+More info [here](Day1/README.md)
