@@ -47,6 +47,7 @@ Ordered list -->
 `<p> This is a line of html code</p>`
 
 <!-- Image -->
+<!-- Okay images are not working -->
 ![alt text](https://unsplash.com/photos/KWQ2kQtxiKE)
 ![logo](C:\Users\user\Desktop\2021#100DaysOfCode\100DaysOfCode\Day2\20210622_140446.jpg)
 
@@ -54,4 +55,36 @@ Ordered list -->
 ![image info](pictures/myimage.jpg)
 ![my image](file://myimage.jpg)
 
-<img src="pictures/myimage.jpg">
+<img src="./pictures/myimage.jpg">
+![my image](C:\Users\user\Desktop\2021#100DaysOfCode\100DaysOfCode\Day2\myimage.jpg)
+
+<!-- This one works -->
+![Markdown logo](https://www.fullstackpython.com/img/logos/markdown.png "Markdown image")
+
+
+<!-- Github markdown -->
+
+<!-- codeblocks -->
+```
+npx create-react-app
+```
+<!-- language specific code blocks -->
+```javascript
+function(num1, num2){
+    return num1 + num2;
+}
+
+
+```
+
+<!-- Tables -->
+| Name  | Email  |
+| ----- | -------|
+| John doe| johndoe@gmail.com |
+| Jane Kang'ethe | jane@yahoo.com |
+
+<!-- Task Lists -->
+* [x] Task 1
+* [ ] Task 2
+* [x] Task 3
+* [ ] Task 4
