@@ -16,6 +16,6 @@ More info [here](Day2/README.md)
 
 
 ## Day 3
-still learning/relearning CSS
+Still learning/relearning fundamentals of CSS. Picked up implementation of a reusable navigation bar using React and CSS.
 
 More info [here](Day3/README.md)
