@@ -10,12 +10,12 @@ More info [here](Day1/README.md)
 
 
 ## Day 2
-To learn/relearn CSS and complete learning Markdown
+Learning/relearning CSS and completed learning Markdown
 
 More info [here](Day2/README.md)
 
 
 ## Day 3
-Still learning/relearning fundamentals of CSS. Picked up implementation of a reusable navigation bar using React and CSS.
+Still learning/relearning fundamentals of CSS. Also Picked up implementation of a reusable navigation bar using React and CSS.
 
 More info [here](Day3/README.md)
