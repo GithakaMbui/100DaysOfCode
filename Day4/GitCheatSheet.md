@@ -81,8 +81,10 @@ git cherry-pick commit_number
 : with this you can only get the chnages from a specific commit instead of getting changes from the entire branch or PR
 
 @details Describe your list here
-#'
-#' * item1 Description of item1
-#' * item2 Description of item2
-#' @md
 
+   * item1 Description of item1
+   * item2 Description of item2
+@md
+
+Orange
+:   <p>The fruit of an evergreen tree of the genus Citrus. </p>
