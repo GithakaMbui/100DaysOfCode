@@ -1,8 +1,8 @@
 <span style="color:blue">  **Git commands Cheatsheet** </span> 
 
-
-git clone
-: clone a reposity
+<dl>
+<dt> <strong> git clone </strong> </dt>
+<dd> clone a repository </dd>
 
 git status
 : show status of current directory
@@ -79,6 +79,10 @@ git pull  --rebase
 
 git cherry-pick commit_number
 : with this you can only get the chnages from a specific commit instead of getting changes from the entire branch or PR
+
+</dl>
+
+<!-- End of worksheet -->
 
 @details Describe your list here
 
