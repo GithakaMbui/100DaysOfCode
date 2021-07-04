@@ -19,3 +19,10 @@ More info [here](Day2/README.md)
 Still learning/relearning fundamentals of CSS. Also Picked up implementation of a reusable navigation bar using React and CSS.
 
 More info [here](Day3/README.md)
+
+## Day 4
+Still learning/relearning fundamentals of CSS.
+Created a **Git Commands Cheatsheet** in markdown.
+Wrote analogies to help differentiate between   
+
+More info [here](Day4/README.md)
