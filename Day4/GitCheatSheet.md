@@ -1,29 +1,30 @@
 <span style="color:blue">  **Git commands Cheatsheet** </span> 
 
 <dl>
+
 <dt> <strong> git clone </strong> </dt>
 <dd> clone a repository </dd>
 
-git status
-: show status of current directory
+<dt> <strong> *git status* </strong> </dt>
+<dd> show status of current directory </dd>
 
-git clone
-: clone a repository
+<dt> <strong>git clone </strong></dt>
+<dd> clone a repository </dd>
 
-git diff
-: difference between working directory & index
+<dt> <strong> git diff </strong> </dt>
+<dd> difference between working directory & index </dd>
 
-git show
-: display the content and metadata
+<dt> <strong> git show </strong> </dt>
+<dd> display the content and metadata </dd>
 
-git branch
-: list all the branches in a repository
+<dt> <strong> git branch </strong> </dt>
+<dd> list all the branches in a repository </dd>
 
-git checkout [branch]
-: switch to a branch
+<dt> <strong>git checkout [branch] </strong> </dt>
+<dd> : switch to a branch </dd>
 
-git branch
-: list all the branches in a repository
+<dt> <strong> git branch </strong> </dt>
+<dd> : list all the branches in a repository </dd>
 
 git branch -d
 : delete a branch
